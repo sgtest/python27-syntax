@@ -1,2 +1,3 @@
-s = "hello world"
-print s
+def hello():
+    s = "hello world"
+    print s
